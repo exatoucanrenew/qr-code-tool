@@ -1,0 +1,8 @@
+build/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+.DS_Store
+.vscode/
